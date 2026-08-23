@@ -37,7 +37,7 @@
 
 </div>
 
-## `> Sobre Mim`
+## `> SOBRE MIM`
 
 Olá! Eu sou **João Paulo Pinheiro**, desenvolvedor em formação com foco em **Full Stack Development**.
 
@@ -57,7 +57,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> tech_stack`
+## `> tech_stack`
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> development_modules`
+## `> development_modules`
 
 <table align="center">
 <tr>
@@ -157,7 +157,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> projects`
+## `> projects`
 
 <div align="center">
 
@@ -194,7 +194,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> github_analytics`
+## `> github_analytics`
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> activity_matrix`
+## `> activity_matrix`
 
 <div align="center">
 
@@ -224,7 +224,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> achievements`
+## `> achievements`
 
 <div align="center">
 
@@ -234,7 +234,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> contribution_protocol`
+## `> contribution_protocol`
 
 <div align="center">
 
@@ -244,7 +244,7 @@ Problem Solving █████████████████░░░░ 
 
 ---
 
-# `> connect`
+## `> connect`
 
 <div align="center">
 
