@@ -30,7 +30,6 @@
 ║  ROLE       :: Full Stack Developer                              ║
 ║  STATUS     :: Learning / Building / Improving                   ║
 ║  CURRENT    :: Web Development                                   ║
-║  MISSION    :: Become a better developer every day               ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
