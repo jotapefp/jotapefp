@@ -213,9 +213,9 @@ Aplicação front-end que consome a API pública do Rick and Morty, com busca de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotapefp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotapefp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=86400"/>
 
 </div>
 
