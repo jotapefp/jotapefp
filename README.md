@@ -286,7 +286,7 @@ Aplicação front-end que consome a API pública do Rick and Morty, com busca de
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║              SYSTEM STATUS: OPERATIONAL                 ║
+║              SYSTEM STATUS: OPERATIONAL                  ║
 ║                                                          ║
 ║              CODE • BUILD • LEARN • REPEAT               ║
 ║                                                          ║
