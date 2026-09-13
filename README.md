@@ -190,7 +190,7 @@ Problem Solving █████████████████░░░░ 
 <br><br>
 
 <a href="https://github.com/jotapefp/Rick-and-Morty-s-Wanted">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jotapefp&repo=Rick-and-Morty-s-Wanted&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jotapefp&repo=Rick-and-Morty-s-Wanted&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&cache_seconds=86400"/>
 </a>
 
 <br><br>
