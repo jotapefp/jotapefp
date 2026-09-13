@@ -164,10 +164,10 @@ Problem Solving █████████████████░░░░ 
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    PROJECTS IN DEVELOPMENT                   ║
+║                    PROJECTS DATABASE                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  STATUS :: BUILDING                                          ║
+║  STATUS :: 1 PROJECT DEPLOYED                                ║
 ║                                                              ║
 ║  → React Applications                                        ║
 ║  → TypeScript Projects                                       ║
@@ -181,15 +181,31 @@ Problem Solving █████████████████░░░░ 
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://github.com/jotapefp/JotapePF">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jotapefp&repo=jotapefp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED"/>
+### 🛸 Featured Project — Rick and Morty Wanted
 
+<img src="https://skillicons.dev/icons?i=react,ts,html,css&theme=dark"/>
+
+<br><br>
+
+<a href="https://github.com/jotapefp/Rick-and-Morty-s-Wanted">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jotapefp&repo=Rick-and-Morty-s-Wanted&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED"/>
 </a>
+
+<br><br>
+
+<a href="https://rick-and-morty-wanted.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-rick--and--morty--wanted.vercel.app-00F7FF?style=for-the-badge&logo=vercel&logoColor=050505"/>
+</a>
+
+<p align="center" width="80%">
+Aplicação front-end que consome a API pública do Rick and Morty, com busca de personagens por nome, listagem de resultados com paginação completa e página de detalhes individual para cada personagem. Interface responsiva com identidade visual própria, inspirada no universo da série.
+</p>
 
 </div>
 
-> **Próximo objetivo:** substituir esta seção pelos meus principais projetos Full Stack à medida que eles forem publicados.
+> **Próximo objetivo:** adicionar novos projetos Full Stack a esta seção à medida que forem publicados.
 
 ---
 
