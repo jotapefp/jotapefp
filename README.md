@@ -18,10 +18,7 @@
 ### Sobre mim
 
 Olá! Eu sou **João Paulo Pinheiro**, desenvolvedor em formação com foco em **Full Stack Development**.
-
-Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicações web, estudando tanto a construção de interfaces modernas quanto o desenvolvimento de APIs, integração com bancos de dados e arquitetura backend.
-
-Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo constantemente em organização de código, boas práticas, TypeScript, arquitetura e resolução de problemas.
+Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicações web, estudando tanto a construção de interfaces modernas quanto o desenvolvimento de APIs, integração com bancos de dados e arquitetura backend. Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo constantemente em organização de código, boas práticas, TypeScript, arquitetura e resolução de problemas.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -85,7 +82,7 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-   src="https://github-readme-stats.vercel.app/api?username=jotapefp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF&cache_seconds=86400"/>
+    src="https://github-readme-stats.vercel.app/api?username=jotapefp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
 <img 
       align="left" 
