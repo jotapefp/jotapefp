@@ -106,6 +106,8 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicaÃ§Ã
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
+---
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
