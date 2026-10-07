@@ -10,6 +10,32 @@
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/jotapefp">
+
+<img src="https://img.shields.io/badge/GitHub-jotapefp-050505?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-pinheiro-ferraz-de-arruda-95b62a211/">
+
+<img src="https://img.shields.io/badge/LinkedIn-João%20Paulo%20Pinheiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+
+</a>
+
+</div>
+
+---
+
 ### Sobre mim
 
 Olá! Eu sou **João Paulo Pinheiro**, desenvolvedor em formação com foco em **Full Stack Development**.
@@ -85,31 +111,6 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicaç�
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/jotapefp">
-
-<img src="https://img.shields.io/badge/GitHub-jotapefp-050505?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-pinheiro-ferraz-de-arruda-95b62a211/">
-
-<img src="https://img.shields.io/badge/LinkedIn-João%20Paulo%20Pinheiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
-
-</a>
-
-</div>
-
----
 
 <div align="center">
 
