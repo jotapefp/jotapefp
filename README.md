@@ -88,8 +88,7 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicaÃ§Ã
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=86400"/>
-  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
 
