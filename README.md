@@ -86,20 +86,15 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
     height="200" 
     style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=jotapefp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF&cache_seconds=86400"/>
-  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&cache_seconds=86400"/>
-  />
-
+  
 </p>
 
-
-
-## `> contribution_protocol`
 
 <div align="center">
 
@@ -108,8 +103,6 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
 </div>
 
 ---
-
-## `> connect`
 
 <div align="center">
 
@@ -133,12 +126,7 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
 
 <br>
 
-
-<img src="https://komarev.com/ghpvc/?username=jotapefp&label=PROFILE%20VISITORS&color=00F7FF&style=flat-square"/>
-
 <br><br>
-
-**`[ SYSTEM ONLINE ]`**
 
 <sub>Designed & engineered with ☕ + code • João Paulo Pinheiro</sub>
 
