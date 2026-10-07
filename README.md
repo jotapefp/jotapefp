@@ -106,6 +106,7 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicaÃ§Ã
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapefp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
+<br/>
 ---
 
 <div align="center">
