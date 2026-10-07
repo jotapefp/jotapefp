@@ -15,7 +15,7 @@
 
 </div>
 
-## `> SOBRE MIM`
+### Sobre mim
 
 Olá! Eu sou **João Paulo Pinheiro**, desenvolvedor em formação com foco em **Full Stack Development**.
 
@@ -77,7 +77,7 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
 <br/>
 <br/>
 
-## `> github_analytics`
+### 📊 Estatísticas
 
 <div align="center">
 
@@ -131,15 +131,6 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
 
 <br>
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║              SYSTEM STATUS: OPERATIONAL                  ║
-║                                                          ║
-║              CODE • BUILD • LEARN • REPEAT               ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 <img src="https://komarev.com/ghpvc/?username=jotapefp&label=PROFILE%20VISITORS&color=00F7FF&style=flat-square"/>
 
