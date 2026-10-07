@@ -91,7 +91,7 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicaÃ§Ã
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
     />
 
 <br/>
