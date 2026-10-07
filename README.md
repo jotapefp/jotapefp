@@ -8,11 +8,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=statuspage&logoColor=050505"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-7C3AED?style=for-the-badge&logo=codeforces&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/LEARNING-ACTIVE-00FF88?style=for-the-badge&logo=bookstack&logoColor=050505"/>
-<img src="https://img.shields.io/badge/BUILDING-REAL%20PROJECTS-FF007F?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
-
 </div>
 
 ### Sobre mim
