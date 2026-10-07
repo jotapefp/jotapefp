@@ -225,26 +225,6 @@ Aplicação front-end que consome a API pública do Rick and Morty, com busca de
 
 ---
 
-## `> activity_matrix`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jotapefp&bg_color=0D1117&color=00F7FF&line=7C3AED&point=00F7FF&area=true&hide_border=true&custom_title=jotapefp%20%2F%20SYSTEM%20ACTIVITY" width="95%"/>
-
-</div>
-
----
-
-## `> achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jotapefp&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
 ## `> contribution_protocol`
 
 <div align="center">
