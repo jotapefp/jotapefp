@@ -32,8 +32,8 @@
 
 ### Sobre mim
 
-Olá! Eu sou **João Paulo Pinheiro**, desenvolvedor em formação com foco em **Full Stack Development**.
-Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicações web, estudando tanto a construção de interfaces modernas quanto o desenvolvimento de APIs, integração com bancos de dados e arquitetura backend. Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo constantemente em organização de código, boas práticas, TypeScript, arquitetura e resolução de problemas.
+Olá! Eu sou João Paulo Pinheiro, desenvolvedor em formação com foco em Desenvolvimento Full Stack.
+Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicações web, estudando tanto a construção de interfaces modernas quanto o desenvolvimento de APIs, integração com bancos de dados e arquitetura backend. Meu objetivo é transformar conhecimento em projetos reais, evoluindo constantemente em organização de código, boas práticas, TypeScript, arquitetura e resolução de problemas.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -109,11 +109,5 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplicaç�
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-<br>
-
-<br><br>
-
-<sub>Designed & engineered with ☕ + code • João Paulo Pinheiro</sub>
 
 </div>
