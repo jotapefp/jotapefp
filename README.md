@@ -14,12 +14,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://github.com/jotapefp">
 
 <img src="https://img.shields.io/badge/GitHub-jotapefp-050505?style=for-the-badge&logo=github&logoColor=00F7FF"/>
@@ -113,6 +107,8 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplica√ß√
 </p>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <br>
 
