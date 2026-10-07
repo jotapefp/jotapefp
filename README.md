@@ -93,8 +93,6 @@ Atualmente estou aprofundando meus conhecimentos no desenvolvimento de aplica√ß√
 
 </div>
 
----
-
 <div align="center">
 
 <a href="https://github.com/jotapefp">
