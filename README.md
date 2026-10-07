@@ -74,7 +74,8 @@ Meu objetivo é transformar conhecimento em **projetos reais**, evoluindo consta
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
----
+<br/>
+<br/>
 
 ## `> github_analytics`
 
